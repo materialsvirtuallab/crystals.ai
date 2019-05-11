@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## crystals.ai
 
-You can use the [editor on GitHub](https://github.com/materialsvirtuallab/crystals.ai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to [crystals.ai](http://crystals.ai), a site dedicated to the application of artificial intelligence techniques to materials science. Here, you will find a list of models, datasets and 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Models
 
-### Markdown
+* [MEGNet](https://megnet.crystals.ai). MatErials Graph Networks (MEGNet) for universal crystal property prediction. 
+* [Deep Neural Network](https://dnn.crystals.ai)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Data Sets
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/materialsvirtuallab/crystals.ai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact the [Materials Virtual Lab](http://www.materialsvirtuallab.org) if you have any feedback or questions.
