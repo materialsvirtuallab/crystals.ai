@@ -9,7 +9,7 @@ Welcome to [crystals.ai](http://crystals.ai), a site dedicated to the applicatio
 
 ## Data Sets
 
-* [Graphs of Materials Project v2018.4.1](https://figshare.com/articles/Graphs_of_materials_project/7451351)
+* <a href="https://figshare.com/articles/Graphs_of_materials_project/7451351" target="_blank">Graphs of Materials Project v2018.6.1</a>
 
 ## Contact
 
