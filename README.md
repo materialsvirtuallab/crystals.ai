@@ -1,6 +1,4 @@
-# crystals.ai
-
-![crystals.ai logo](iamges/logo_header.png)
+![crystals.ai logo](images/logo_header.png)
 
 [crystals.ai](http://crystals.ai) is dedicated to the application of artificial intelligence techniques to materials science. Here, you will find a collection of materials AI models, tools and datasets. 
 
