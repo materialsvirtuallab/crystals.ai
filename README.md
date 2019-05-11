@@ -1,11 +1,15 @@
 ## Welcome
 
-Welcome to [crystals.ai](http://crystals.ai), a site dedicated to the application of artificial intelligence techniques to materials science. Here, you will find a list of models, datasets and 
+[crystals.ai](http://crystals.ai) is dedicated to the application of artificial intelligence techniques to materials science. Here, you will find a collection of materials AI models, tools and datasets. 
 
 ## Models
 
-* [MEGNet](https://megnet.crystals.ai). Various MatErials Graph Network (MEGNet) models for predicting the properties of crystals  and is an implementation of DeepMind's graph networks[1] for universal machine learning in materials science. 
+* [MEGNet](https://megnet.crystals.ai). Various MatErials Graph Network (MEGNet) models for predicting the properties of crystals  and is an implementation of DeepMind's graph networks for universal machine learning in materials science. 
 * [Deep Neural Network](https://dnn.crystals.ai)
+
+## Tools
+
+
 
 ## Data Sets
 
